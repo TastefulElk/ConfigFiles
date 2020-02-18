@@ -12,7 +12,7 @@ COMPLETION_WAITING_DOTS="true"
 
 # Standard plugins can be found in ~/.oh-my-zsh/plugins/*
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-plugins=(git brew docker osx aws zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git brew docker osx aws zsh-autosuggestions zsh-syntax-highlighting z)
 
 source $ZSH/oh-my-zsh.sh
 source ~/.bash_profile
